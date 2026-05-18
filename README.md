@@ -15,6 +15,10 @@ REPOSITÓRIO GITHUB
 ------------------
 https://github.com/f123r4/MeuAmvienteVR
 
+VIDEO DETALHAMENTO
+------------------
+https://youtu.be/BPNqVuSosdI
+
 REQUISITOS PARA RODAR
 ---------------------
 - Unity 6000.3.14f1 (ou superior)
